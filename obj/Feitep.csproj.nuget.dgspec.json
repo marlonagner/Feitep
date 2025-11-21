@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UniFeitep\\Feitep\\Feitep.csproj": {}
+    "/workspaces/Feitep/Feitep.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UniFeitep\\Feitep\\Feitep.csproj": {
+    "/workspaces/Feitep/Feitep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UniFeitep\\Feitep\\Feitep.csproj",
+        "projectUniqueName": "/workspaces/Feitep/Feitep.csproj",
         "projectName": "Feitep",
-        "projectPath": "C:\\Users\\UniFeitep\\Feitep\\Feitep.csproj",
-        "packagesPath": "C:\\Users\\UniFeitep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UniFeitep\\Feitep\\obj\\",
+        "projectPath": "/workspaces/Feitep/Feitep.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Feitep/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UniFeitep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,6 +79,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/RuntimeIdentifierGraph.json"
         }
       }
     }

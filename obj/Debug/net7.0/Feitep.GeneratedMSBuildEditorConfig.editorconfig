@@ -9,65 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Feitep
 build_property.RootNamespace = Feitep
-build_property.ProjectDir = C:\Users\UniFeitep\Feitep\
+build_property.ProjectDir = /workspaces/Feitep/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\UniFeitep\Feitep
+build_property.MSBuildProjectDirectory = /workspaces/Feitep
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/UniFeitep/Feitep/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/workspaces/Feitep/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/workspaces/Feitep/Pages/Equipamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXF1aXBhbWVudG9zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[/workspaces/Feitep/Pages/Equipamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXF1aXBhbWVudG9zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[/workspaces/Feitep/Pages/Equipamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXF1aXBhbWVudG9zL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Professores/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmVzc29yZXNcQ3JlYXRlLmNzaHRtbA==
+[/workspaces/Feitep/Pages/Equipamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXF1aXBhbWVudG9zL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Professores/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmVzc29yZXNcRGVsZXRlLmNzaHRtbA==
+[/workspaces/Feitep/Pages/Equipamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXF1aXBhbWVudG9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Professores/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmVzc29yZXNcRGV0YWlscy5jc2h0bWw=
+[/workspaces/Feitep/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Professores/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmVzc29yZXNcRWRpdC5jc2h0bWw=
+[/workspaces/Feitep/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Professores/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmVzc29yZXNcSW5kZXguY3NodG1s
+[/workspaces/Feitep/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+[/workspaces/Feitep/Pages/Professores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmVzc29yZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/workspaces/Feitep/Pages/Professores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmVzc29yZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/workspaces/Feitep/Pages/Professores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmVzc29yZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/workspaces/Feitep/Pages/Professores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmVzc29yZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UniFeitep/Feitep/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-kk66z35xbz
+[/workspaces/Feitep/Pages/Professores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmVzc29yZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Feitep/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Feitep/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Feitep/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Feitep/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Feitep/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7mmw4ut340

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feitep", "Feitep.csproj", "{79EA14BF-D5F6-A1C0-E5A1-B483C8C1A490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EA14BF-D5F6-A1C0-E5A1-B483C8C1A490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EA14BF-D5F6-A1C0-E5A1-B483C8C1A490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EA14BF-D5F6-A1C0-E5A1-B483C8C1A490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EA14BF-D5F6-A1C0-E5A1-B483C8C1A490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECB3804-0133-434F-B499-525CE1D10675}
+	EndGlobalSection
+EndGlobal
