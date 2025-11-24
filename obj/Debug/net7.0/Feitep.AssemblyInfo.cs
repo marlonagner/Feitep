@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Feitep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f66bdbeb724977f98f028372105c08d3a1fec476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7f3e4283de78a05e6e2c445216aa628ce0ba351")]
 [assembly: System.Reflection.AssemblyProductAttribute("Feitep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Feitep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
